@@ -9,10 +9,6 @@ I am pursuing a  degree of bachelor of technology in  Engineering physics.
 
 <img align="right" width="400" alt="coding-img" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gayatri-k-2a9831204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gayatri-k-2a9831204/" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,6 +16,10 @@ I am pursuing a  degree of bachelor of technology in  Engineering physics.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrik26&show_icons=true&locale=en&layout=compact" alt="gayatrik26" /></p>
 
+<h3 align="left">Socials:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gayatri-k-2a9831204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gayatri-k-2a9831204/" height="30" width="40" /></a>
+</p>
 <!---
 gayatrik26/gayatrik26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
