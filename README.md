@@ -7,7 +7,8 @@ I am pursuing a  degree of bachelor of technology in  Engineering physics.
 - 🌱 I’m currently learning Web Development
 - 📫 You can contact me at.... gayatrik22803@gmail.com
   <p align="right">
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"></p>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+</p>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gayatri-k-2a9831204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gayatri-k-2a9831204/" height="30" width="40" /></a>
