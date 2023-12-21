@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GAYATRI KADAM</h1>
-<h3 align="center">I am in my junior year at Delhi Technological University. I am pursuing a degree of bachelor of technology in Engineering physics.</h3>
+<h3 align="center">I am a senior year student at Delhi Technological University. I am pursuing a degree of bachelor of technology in Engineering Physics.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
