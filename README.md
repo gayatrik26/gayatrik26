@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gayatrik26.github.io/My_portfolio/).
 
-- 💞️ I’m looking to collaborate on HTML and CSS related projects.
+- 💞️ I’m looking to collaborate on JavaScript projects.
 
 - 📫 How to reach me Linkedln:- www.linkedin.com/in/aditya-gupta-371646215 
 
