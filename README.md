@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm GAYATRI KADAM</h1>
 <h3 align="center">I am a senior year student at Delhi Technological University. I am pursuing a degree of bachelor of technology in Engineering Physics.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 👀 I’m interested in Web development.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://gayatrik26.github.io/My_portfolio/)
+- 🌱 I’m currently learning **JavaScript , React**.
 
-- 📫 How to reach me **gayatrik22803@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gayatrik26.github.io/My_portfolio/).
+
+- 💞️ I’m looking to collaborate on HTML and CSS related projects.
+
+- 📫 How to reach me Linkedln:- www.linkedin.com/in/aditya-gupta-371646215 
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="coding" width="400">
 
