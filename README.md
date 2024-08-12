@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
-- 📫 How to reach me Linkedln:- www.linkedin.com/in/aditya-gupta-371646215 
+- 📫 How to reach me Linkedln:- https://www.linkedin.com/in/gayatri-k-2a9831204/
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="coding" width="400">
 
