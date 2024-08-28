@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Web development.
 
-- 🌱 I’m currently learning **JavaScript , React**.
+- 🌱 I’m currently learning **React , NodeJs**.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gayatrik26.github.io/My_portfolio/).
 
