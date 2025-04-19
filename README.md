@@ -49,4 +49,9 @@
 ![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
+
+### Profile badges
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gayatrik26&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayatrik26&show_icons=true&locale=en&layout=compact" alt="gayatrik26" /></p>
