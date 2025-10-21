@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Web development.
 
-- 🌱 I’m currently learning **NEXT JS, TYPESCRIPT**.
+- 🌱 I’m currently learning **AI FullStack**.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://gayatrik26.github.io/My_portfolio/).
 
