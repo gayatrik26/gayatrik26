@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI FullStack**.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://gayatrik26.github.io/My_portfolio/).
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-v2-gayatri.netlify.app/).
 
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
