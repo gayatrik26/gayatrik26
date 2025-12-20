@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm GAYATRI KADAM</h1>
 <h3 align="center">AI Software Engineer at KPMG | Delhi Technological University Graduate</h3>
 
-- 👀 I’m interested in Web development.
+- 👀 I’m interested in Web development and AI Integrations.
 
 - 🌱 I’m currently learning **AI FullStack**.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-v2-gayatri.netlify.app/).
 
-- 💞️ I’m looking to collaborate on JavaScript projects.
+- 💞️ I’m looking to collaborate on AL/ML/JavaScript projects.
 
 - 📫 How to reach me Linkedln:- https://www.linkedin.com/in/gayatri-k-2a9831204/
 
